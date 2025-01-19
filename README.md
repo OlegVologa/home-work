@@ -39,3 +39,9 @@
 ### пример картинки
 
 ![goldfish](goldfish.webp)
+
+### пример кода
+
+```pyton
+    print('Hello, md!')
+```
