@@ -7,10 +7,10 @@
 2. Основы конфигурации.
     - git config --global user.name "Oleg Vologa"
     - git config --global user.name oleg.vologa@mail.ru
-    -git config --list
-    -git config --global core.editor "code --wait"
-    -git config -home
-    -git help config
+    - git config --list
+    - git config --global core.editor "code --wait"
+    - git config -home
+    - git help config
 3. Узнать статус файлов.
     - git status
 4. Проиндексировать файл.
